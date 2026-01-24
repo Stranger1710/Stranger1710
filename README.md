@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @Stranger1710
-- 👀 I’m interested in lerning new skills and experience ...
-- 🌱 I’m currently learning c++,Front end devlopement ...
-- 💞️ I’m looking for internship ...
-- 📫 How to reach me email: rupendarsingh123@gmail.com ...
+👋 Hi, I’m @Stranger1710  
+
+💻 **Full Stack Developer | MERN Stack | Problem Solver**  
+
+🚀 Passionate developer focused on building **responsive and scalable web applications** using  
+**MongoDB, ReactJS, Next.js, Three.js, and Node.js**.  
+
+✨ I enjoy writing **clean, efficient code** and creating **user-friendly solutions** that solve real-world problems.  
+
+💼 Currently looking for **Job opportunities** to learn, grow, and contribute to impactful projects.  
+
+📫 Reach me at: **rupendarsingh123@gmail.com**
 
 <!---
 Stranger1710/Stranger1710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
