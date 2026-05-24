@@ -1,4 +1,4 @@
-👋 Hi, I’m @Stranger1710  
+👋 Hi, I’m Rupender  
 
 💻 **Full Stack Developer | MERN Stack | Problem Solver**  
 
